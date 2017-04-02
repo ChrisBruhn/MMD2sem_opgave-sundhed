@@ -6,7 +6,6 @@
  * Time: 12:07
  */
 
-
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     lavVar($_POST);
 

@@ -17,6 +17,7 @@ table, th, td {
 
 img {
     max-width: 50%;
+
 }
 
 tbody tr:nth-child(odd) {
@@ -41,7 +42,8 @@ input {
 .backgroundimage {
     background-image: url('baggrung.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
+
+    margin-top: 5%;
 }
 
 .output {
